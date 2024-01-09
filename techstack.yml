@@ -1,0 +1,266 @@
+repo_name: 2lambda123/scummvm
+report_id: 9bf14fab45fac0ed9929cec4a08e307d
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T08:38:03+00:00'
+requested_by: mistydemeo
+provider: github
+branch: master
+detected_tools_count: 23
+tools:
+- name: AWK
+  description: A language for text processing, data extraction and reporting
+  website_url: https://github.com/onetrueawk/awk
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/2lambda123/scummvm
+  detection_source: Repo Metadata
+- name: Assembly Language
+  description: A low-level programming language
+  website_url: https://en.wikipedia.org/wiki/Assembly_language
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4934/default_71f18bbdc61fb88cefb66415bb55dc6f1e60e5ec.png
+  detection_source_url: https://github.com/2lambda123/scummvm
+  detection_source: Repo Metadata
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/2lambda123/scummvm
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/2lambda123/scummvm
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/2lambda123/scummvm
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/2lambda123/scummvm
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/scummvm
+  detection_source: Repo Metadata
+- name: Lua
+  description: Powerful, fast, lightweight, embeddable scripting language
+  website_url: http://www.lua.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2118/128px-Lua-Logo.svg.png
+  detection_source_url: https://github.com/2lambda123/scummvm
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/2lambda123/scummvm
+  detection_source: Repo Metadata
+- name: Perl
+  description: Highly capable, feature-rich programming language with over 26 years
+    of development
+  website_url: http://www.perl.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/2lambda123/scummvm
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/scummvm
+  detection_source: Repo Metadata
+- name: R Language
+  description: A language and environment for statistical computing and graphics
+  website_url: http://www.r-project.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1213/r-logo.png
+  detection_source_url: https://github.com/2lambda123/scummvm
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/2lambda123/scummvm
+  detection_source: Repo Metadata
+- name: CMake
+  description: 'An open-source system that manages the build process '
+  website_url: http://www.cmake.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/scummvm
+  detection_source: Repo Metadata
+- name: GNU sed
+  description: A non-interactive command-line text editor
+  website_url: https://www.gnu.org/software/sed/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/3635/default_6369b655647204026aee2fa41eaa721d27a30528.png
+  detection_source_url: https://github.com/2lambda123/scummvm
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/scummvm
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/scummvm/blob/master/.github/workflows/ci.yml
+  detection_source: ".github/workflows/ci.yml"
+  last_updated_by: SupSuper
+  last_updated_on: 2023-07-26 22:07:57.000000000 Z
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/2lambda123/scummvm/blob/master/dists/android/build.gradle
+  detection_source: dists/android/build.gradle
+  last_updated_by: antoniou79
+  last_updated_on: 2023-03-12 20:26:01.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/scummvm/blob/master/doc/docportal/requirements.txt
+  detection_source: doc/docportal/requirements.txt
+  last_updated_by: CadiH
+  last_updated_on: 2022-10-19 23:20:23.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/2lambda123/scummvm/blob/master/devtools/create_engine/create_engine.sln
+  detection_source: devtools/create_engine/create_engine.sln
+  last_updated_by: Paul Gilbert
+  last_updated_on: 2022-05-08 04:51:40.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/2lambda123/scummvm
+  detection_source: Repo Metadata
+- name: docutils
+  description: Docutils -- Python Documentation Utilities
+  package_url: https://pypi.org/project/docutils
+  version: '0.17'
+  license: Unlicense,Python-2.0,BSD-2-Clause,CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19874/default_7ed3c4ccf2a3218ae3655165b980bd4a90a445dc.png
+  detection_source_url: https://github.com/2lambda123/scummvm/blob/master/doc/docportal/requirements.txt
+  detection_source: doc/docportal/requirements.txt
+  last_updated_by: CadiH
+  last_updated_on: 2022-10-19 23:20:23.000000000 Z
+- name: sphinx_rtd_theme
+  description: Read the Docs theme for Sphinx
+  package_url: https://pypi.org/project/sphinx_rtd_theme
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20304/default_506725603cd9affb22ffa36e3939310b26cbf952.png
+  detection_source_url: https://github.com/2lambda123/scummvm/blob/master/doc/docportal/requirements.txt
+  detection_source: doc/docportal/requirements.txt
+  last_updated_by: CadiH
+  last_updated_on: 2023-01-11 04:55:16.000000000 Z
